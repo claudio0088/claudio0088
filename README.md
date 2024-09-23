@@ -16,10 +16,20 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  title="HTML5" alt="HTML5" width="50" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="50" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>          
-                   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>        
+                
           
 <div>
 
 ---
-![Snake animation](https://github.com/claudio0088/claudio0088/blob/output/github-contribution-grid-snake.svg)
+<table  align = "center">
+  <tr>
+    <td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio0088&show_icons=true&theme=bear&count_private=true"/>
+    </td>
+    <td>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=claudio0088&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+    </td>
+  </tr>
+</dtable>
+
