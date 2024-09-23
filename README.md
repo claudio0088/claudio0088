@@ -5,7 +5,7 @@
 <img src = "fotocapa.gif" width = "325px" align = "right" >
 
 - Estudante de ADS💻
-- Fã de animes de games🎮
+- Fã de animes é games🎮
 - Aprendendo sobre back-end👩‍💻 
 
 
